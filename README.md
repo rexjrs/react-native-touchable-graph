@@ -38,15 +38,15 @@ Installation:
 
 Required Props:
 ```js
-dataSource={this.state.dataSource}
-width={this.state.width}
-height={this.state.height}
-backgroundColor="#F2F2F2"
-borderColor="#FF9800"
-fontSizeY={11}
-fontSizeX={11}
-pointSize={7}
-pointColor="black"
-lineWidth={2}
-lineColor="#FF9800"
+dataSource // Array, example: [{y: 1, x: "Thomas"},{y: 2, x: "Dennis"}]
+width // Numeric Value
+height // Numeric Value
+backgroundColor // Any react native color EG, "red" , "#FF9800"
+borderColor // Any react native color EG, "red" , "#FF9800"
+fontSizeY //Numeric Value
+fontSizeX // Numeric Value
+pointSize // Numeric Value
+pointColor // Any react native color EG, "red" , "#FF9800"
+lineWidth // Numeric Value
+lineColor // Any react native color EG, "red" , "#FF9800"
 ```
