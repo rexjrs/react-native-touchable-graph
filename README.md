@@ -22,6 +22,20 @@ Example:
     />
 ```
 
+Dependency: 
+
+https://github.com/react-native-community/react-native-svg
+
+Installation:
+
+1) Install react-native-svg
+
+2) Download react-native-touchable-graph https://github.com/rexjrs/react-native-touchable-graph/archive/master.zip
+
+3) Unzip file and place into project
+
+4) import file: GraphContainer.js into project, see example above
+
 Required Props:
 ```js
 dataSource={this.state.dataSource}
