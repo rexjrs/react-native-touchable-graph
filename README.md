@@ -1,7 +1,7 @@
 # react-native-touchable-graph
 Created by Thomas Charlesworth
 
-Example:
+Example youtube video (click to see):
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/8XfkclUNLh0/0.jpg)](https://www.youtube.com/watch?v=8XfkclUNLh0 "react-native-touchable-graph")
 
 ```js
